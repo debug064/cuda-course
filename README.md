@@ -1,8 +1,9 @@
 # CUDA Course
 
 GitHub Repo for CUDA Course on FreeCodeCamp
-
 > Note: This course is designed for Ubuntu Linux. Windows users can use Windows Subsystem for Linux or Docker containers to simulate the ubuntu Linux environment.
+
+[youtube course](https://www.youtube.com/watch?v=86FAWCzIe_4)
 
 ## Table of Contents
 
